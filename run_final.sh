@@ -1,6 +1,6 @@
-export filename=mona
+export filename=boss
 export input_video=input_videos
-export input_audio=input_audios/ai.wav
+export input_audio=input_audios/fandeng140s.wav
 export frames_wav2lip=frames_wav2lip
 export frames_hd=frames_hd
 export output_videos_wav2lip=output_videos_wav2lip
