@@ -1,4 +1,5 @@
 # ignored folders
+checkpoints/*
 datasets/*
 experiments/*
 results/*
